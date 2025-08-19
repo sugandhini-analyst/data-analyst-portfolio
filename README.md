@@ -16,7 +16,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ## 📂 Portfolio Projects
 
 ### ✈️ High Cloud Airlines – Operational Analysis  
-**Tools**: Power BI, Tableau, Excel  
+**Tools**: Excel, SQL, Power BI, Tableau    
 - **Objective**: To analyze airline operations focusing on **load factor, top carriers, and popular routes**.  
 - **Key Insights**:  
   - Identified peak vs. underperforming months to optimize **fleet utilization**.  
@@ -26,12 +26,12 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 - **Deliverables**:  
   - [📊 Power BI Dashboard](./PowerBI/Group-1HighCloudAirlines.pbix)  
   - [📈 Tableau Dashboard](./Tableau/Group-1HighCloudAirlines.twbx)  
-  - [📑 Project Presentation](./Excel/Group-1HighCloudAirlinesPPT.pptx)  
+ 
 
 ---
 
 ### 🏦 Bank Data Analytics – Loan Portfolio & Risk Analysis  
-**Tools**: SQL, Excel, Power BI, Tableau  
+**Tools**: Excel, SQL, Power BI, Tableau  
 - **Objective**: To analyze a banking dataset focusing on **loan performance, risk assessment, and customer insights**.  
 - **Key Insights (SQL Queries)**:  
   - Total Loan Amount Funded, Interest, and Collection.  
@@ -43,10 +43,10 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Power BI: Interactive KPIs & delinquency trends.  
   - Tableau: Visual storytelling of loan performance by region & demographics.  
 - **Deliverables**:  
-  - [🗄 SQL Queries](./SQL/BankDataAnalytics.sql)  
+  - [📑 Excel Analysis](./Excel/BankDataAnalytics.xlsx)
+  - [🗄 SQL Queries](./SQL/BankDataAnalytics.sql)
   - [📊 Power BI Dashboard](./PowerBI/BankDataAnalytics.pbix)  
   - [📈 Tableau Dashboard](./Tableau/BankDataAnalytics.twbx)  
-  - [📑 Excel Analysis](./Excel/BankDataAnalytics.xlsx)  
 
 ---
 
