@@ -23,9 +23,11 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Highlighted **top routes & carriers** contributing to passenger traffic and revenue.  
   - Designed **interactive dashboards** for real-time insights.  
 - **Challenges Overcome**: Managed large datasets, handled data quality issues, built complex data model relationships.  
-- **Deliverables**:  
+- **Deliverables**:
+  - 📑[Excel Analysis]()
+  - 🗄[SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/High%20Cloud%20Airlines/SQL/Group-1%20High%20Cloud%20Airlines%20SQL.sql)
   - 📊 [Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/main/High%20Cloud%20Airlines/PowerBi/Group-1High%20Cloud%20Airlines%20PowerBI.pbix)
-  - 📈 [Tableau Dashboard](PASTE_TABLEAU_LINK_HERE)
+  - 📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx)
 
   - 
  
@@ -48,7 +50,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - [📑 Excel Analysis](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Excel/Bank%20Data%20Analytics%20-%20EXCEL.xlsx)
   - [🗄 SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/Bank%20Data%20Analytics/SQL/Bank%20Data%20Analytics%20-%20SQL.sql)
   - [📊 Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/PowerBI/Bank%20Data%20Analytics%20-%20POWERBI.pbix)  
-  - [📈 Tableau Dashboard]()  
+  - [📈 Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Tableau/Bank%20data%20Analytics%20-%20TABLEAU.twbx)  
 
 ---
 
