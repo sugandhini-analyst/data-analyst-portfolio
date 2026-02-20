@@ -13,7 +13,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 
 ---
 
-## 📂 Portfolio Projects
+# 📂 Portfolio Projects
 
 
 ## ✈️ Airline Load Factor & Performance Analytics
