@@ -14,20 +14,52 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ---
 
 ## 📂 Portfolio Projects
+Here is your **Airline Project written in the same format**, but with **SQL clearly separated and highlighted** for your GitHub/portfolio:
 
-### ✈️ High Cloud Airlines – Operational Analysis  
-**Tools**: Excel, SQL, Power BI, Tableau    
-- **Objective**: To analyze airline operations focusing on **load factor, top carriers, and popular routes**.  
-- **Key Insights**:  
-  - Identified peak vs. underperforming months to optimize **fleet utilization**.  
-  - Highlighted **top routes & carriers** contributing to passenger traffic and revenue.  
-  - Designed **interactive dashboards** for real-time insights.  
-- **Challenges Overcome**: Managed large datasets, handled data quality issues, built complex data model relationships.  
-- **Deliverables**:
-  - 📑[Excel Analysis](https://docs.google.com/spreadsheets/d/1m6TB_kdrOO8sJYSFyqGtQWzF_6YCorMd/edit?usp=sharing&ouid=114127322056369432965&rtpof=true&sd=true)
-  - 🗄[SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/High%20Cloud%20Airlines/SQL/Group-1%20High%20Cloud%20Airlines%20SQL.sql)
-  - 📊 [Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/main/High%20Cloud%20Airlines/PowerBi/Group-1High%20Cloud%20Airlines%20PowerBI.pbix)
-  - 📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx) 
+---
+
+### ✈️ Airline Load Factor & Performance Analytics
+
+🛠 **Tech Stack:** Excel | SQL (MySQL) | Power BI | Tableau
+
+🎯 **Project Overview:**
+Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
+
+---
+🗄 **SQL Analysis & Insights**
+
+🔍 **Core Queries & Business Findings:**
+
+* 📅 Created date and time dimensions (Year, Month, Quarter, Weekday, Financial Year) for trend analysis.
+* 📈 Calculated yearly, quarterly, and monthly load factor → **75.30% (2008) to 78.12% (2013)**.
+* 🏆 Evaluated carrier performance → **Top carriers: Southwest (3.41M+), Delta (2.88M+)**.
+* ✈️ Identified highest carrier utilization → **93.33% load factor (Charter Air Transport)**.
+* 🛣 Analyzed busiest routes → **Chicago–Detroit highest demand**.
+* 📆 Compared weekday vs weekend utilization → **Stable (~76–77%)**.
+* 📏 Segmented flights by distance → Short, Medium, Long, Ultra-long haul categories.
+
+---
+
+### 📈 Reporting & Visualization Highlights
+
+* 📑 **Excel:** KPI dashboards (KPI-1 to KPI-6) with pivot-based executive summaries (20+ metrics).
+* 📊 **Power BI:** Interactive dashboards with drill-down (Year → Month → Carrier → Route) and DAX-based KPIs.
+* 📉 **Tableau:** Seasonal, route, and carrier storytelling dashboards.
+
+---
+🛠 Tools & Skills
+
+* **Data Analysis:** SQL (MySQL: Joins, CTEs, Aggregations, Date Functions), Excel (Pivot, Power Query, VLOOKUP, Dashboards)
+* **Visualization:** Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)
+* **Other:** Data Cleaning, KPI Design, Business Reporting, Presentation
+---
+
+📁 Project Artifacts
+
+📑 Excel Analysis()
+🗄 SQL Scripts()
+📊 Power BI Report()
+📈 Tableau Dashboard()
 
 ---
 
@@ -71,18 +103,7 @@ Analyzed **100K+ debit and credit card transactions** to uncover revenue pattern
 🗄 SQL Scripts()
 📊 Power BI Report()
 📈 Tableau Dashboard()
-
----
-
-If you’d like, I can now add the same icon-based styling to your **Bank Analytics project** so your entire GitHub portfolio looks consistent and premium.
-
-
-
-
----
-
-
-## 🛠 Tools & Skills
+🛠 Tools & Skills
 - **Data Analysis**: SQL (MySQL), Excel (Pivot, Power Query, VLOOKUP, Dashboards)  
 - **Visualization**: Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)  
 - **Other**: Data Cleaning, KPI Design, Business Reporting, Presentation  
