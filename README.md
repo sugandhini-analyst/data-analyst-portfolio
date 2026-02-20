@@ -27,10 +27,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - 📑[Excel Analysis]()
   - 🗄[SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/High%20Cloud%20Airlines/SQL/Group-1%20High%20Cloud%20Airlines%20SQL.sql)
   - 📊 [Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/main/High%20Cloud%20Airlines/PowerBi/Group-1High%20Cloud%20Airlines%20PowerBI.pbix)
-  - 📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx)
-
-  - 
- 
+  - 📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx) 
 
 ---
 
@@ -55,7 +52,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ---
 
 ## 🛠 Tools & Skills
-- **Data Analysis**: SQL (MySQL/PostgreSQL), Excel (Pivot, Power Query, VLOOKUP, Dashboards)  
+- **Data Analysis**: SQL (MySQL), Excel (Pivot, Power Query, VLOOKUP, Dashboards)  
 - **Visualization**: Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)  
 - **Other**: Data Cleaning, KPI Design, Business Reporting, Presentation  
 
