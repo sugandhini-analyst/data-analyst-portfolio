@@ -50,7 +50,7 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 
 ## 📁 Project Artifacts
 
-📑 Excel Analysis()
+📑 Excel Analysis() 
 🗄 SQL Scripts()
 📊 Power BI Report()
 📈 Tableau Dashboard()
