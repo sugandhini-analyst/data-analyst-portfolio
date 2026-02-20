@@ -16,11 +16,11 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 # 📂 Portfolio Projects
 
 
-## ✈️ Airline Load Factor & Performance Analytics
+## ✈️ 1. Airline Load Factor & Performance Analytics
 
 ### 🛠 Tech Stack: Excel | SQL (MySQL) | Power BI | Tableau
 
-🎯 **Project Overview:**
+### 🎯 **Project Overview:**
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
 
 
@@ -41,7 +41,7 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * 📊 **Power BI:** Interactive dashboards with drill-down (Year → Month → Carrier → Route) and DAX-based KPIs.
 * 📉 **Tableau:** Seasonal, route, and carrier storytelling dashboards.
 
-##🛠 Tools & Skills
+### 🛠 Tools & Skills
 
 * **Data Analysis:** SQL (MySQL: Joins, CTEs, Aggregations, Date Functions), Excel (Pivot, Power Query, VLOOKUP, Dashboards)
 * **Visualization:** Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)
@@ -56,8 +56,8 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 
 ---
 
-### 🏦 Bank Data Analytics – Loan Portfolio & Risk Analysis  
-**Tools**: Excel, SQL, Power BI, Tableau  
+# 🏦 Bank Data Analytics – Loan Portfolio & Risk Analysis  
+## **Tools**: Excel, SQL, Power BI, Tableau  
 - **Objective**: To analyze a banking dataset focusing on **loan performance, risk assessment, and customer insights**.  
 - **Key Insights (SQL Queries)**:  
   - Total Loan Amount Funded, Interest, and Collection.  
