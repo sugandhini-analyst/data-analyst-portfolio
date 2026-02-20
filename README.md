@@ -50,10 +50,11 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 
 ## 📁 Project Artifacts
 
-📑 Excel Analysis() 
-🗄 SQL Scripts()
-📊 Power BI Report()
-📈 Tableau Dashboard()
+📑 [Excel Analysis]()  
+🗄 [SQL Scripts](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/High%20Cloud%20Airlines/SQL/Group-1%20High%20Cloud%20Airlines%20SQL.sql)  
+📊 [Power BI Report](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/PowerBi/Group-1High%20Cloud%20Airlines%20PowerBI.pbix)  
+📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx)
+
 
 ---
 
