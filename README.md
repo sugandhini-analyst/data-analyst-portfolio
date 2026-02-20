@@ -46,8 +46,8 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Tableau: Visual storytelling of loan performance by region & demographics.  
 - **Deliverables**:  
   - [📑 Excel Analysis](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Excel/Bank%20Data%20Analytics%20-%20EXCEL.xlsx)
-  - [🗄 SQL Queries]()
-  - [📊 Power BI Dashboard]()  
+  - [🗄 SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/Bank%20Data%20Analytics/SQL/Bank%20Data%20Analytics%20-%20SQL.sql)
+  - [📊 Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/PowerBI/Bank%20Data%20Analytics%20-%20POWERBI.pbix)  
   - [📈 Tableau Dashboard]()  
 
 ---
