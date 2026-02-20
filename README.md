@@ -16,9 +16,9 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ## 📂 Portfolio Projects
 
 
-### ✈️ Airline Load Factor & Performance Analytics
+## ✈️ Airline Load Factor & Performance Analytics
 
-## 🛠 Tech Stack: Excel | SQL (MySQL) | Power BI | Tableau
+### 🛠 Tech Stack: Excel | SQL (MySQL) | Power BI | Tableau
 
 🎯 **Project Overview:**
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
