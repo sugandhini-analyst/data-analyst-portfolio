@@ -23,7 +23,6 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 🎯 **Project Overview:**
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
 
----
 🗄 **SQL Analysis & Insights**
 
 🔍 **Core Queries & Business Findings:**
@@ -36,7 +35,6 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * 📆 Compared weekday vs weekend utilization → **Stable (~76–77%)**.
 * 📏 Segmented flights by distance → Short, Medium, Long, Ultra-long haul categories.
 
----
 
 ### 📈 Reporting & Visualization Highlights
 
@@ -44,13 +42,11 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * 📊 **Power BI:** Interactive dashboards with drill-down (Year → Month → Carrier → Route) and DAX-based KPIs.
 * 📉 **Tableau:** Seasonal, route, and carrier storytelling dashboards.
 
----
 🛠 Tools & Skills
 
 * **Data Analysis:** SQL (MySQL: Joins, CTEs, Aggregations, Date Functions), Excel (Pivot, Power Query, VLOOKUP, Dashboards)
 * **Visualization:** Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)
 * **Other:** Data Cleaning, KPI Design, Business Reporting, Presentation
----
 
 📁 Project Artifacts
 
