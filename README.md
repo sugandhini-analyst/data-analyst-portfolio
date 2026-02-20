@@ -24,7 +24,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
 
 
-###🔍 **Core Queries & Business Findings:**
+### 🔍 Core Queries & Business Findings:
 
 * 📅 Created date and time dimensions (Year, Month, Quarter, Weekday, Financial Year) for trend analysis.
 * 📈 Calculated yearly, quarterly, and monthly load factor → **75.30% (2008) to 78.12% (2013)**.
