@@ -24,7 +24,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Designed **interactive dashboards** for real-time insights.  
 - **Challenges Overcome**: Managed large datasets, handled data quality issues, built complex data model relationships.  
 - **Deliverables**:
-  - 📑[Excel Analysis](https://docs.google.com/spreadsheets/d/1sYrjDTzwzi-YHT9vGfEfXAMwPT-BpOMj/edit?usp=sharing&ouid=114127322056369432965&rtpof=true&sd=true)
+  - 📑[Excel Analysis](https://docs.google.com/spreadsheets/d/1sYrjDTzwzi-YHT9vGfEfXAMwPT-BpOMj/edit?usp=drive_link&ouid=114127322056369432965&rtpof=true&sd=true)
   - 🗄[SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/High%20Cloud%20Airlines/SQL/Group-1%20High%20Cloud%20Airlines%20SQL.sql)
   - 📊 [Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/main/High%20Cloud%20Airlines/PowerBi/Group-1High%20Cloud%20Airlines%20PowerBI.pbix)
   - 📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/Group-1%20High%20Cloud%20Airlies%20%20Tableau.twbx) 
