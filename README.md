@@ -45,10 +45,10 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Power BI: Interactive KPIs & delinquency trends.  
   - Tableau: Visual storytelling of loan performance by region & demographics.  
 - **Deliverables**:  
-  - [📑 Excel Analysis](./Excel/BankDataAnalytics.xlsx)
-  - [🗄 SQL Queries](./SQL/BankDataAnalytics.sql)
-  - [📊 Power BI Dashboard](./PowerBI/BankDataAnalytics.pbix)  
-  - [📈 Tableau Dashboard](./Tableau/BankDataAnalytics.twbx)  
+  - [📑 Excel Analysis]()
+  - [🗄 SQL Queries]()
+  - [📊 Power BI Dashboard]()  
+  - [📈 Tableau Dashboard]()  
 
 ---
 
