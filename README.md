@@ -14,9 +14,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ---
 
 ## 📂 Portfolio Projects
-Here is your **Airline Project written in the same format**, but with **SQL clearly separated and highlighted** for your GitHub/portfolio:
 
----
 
 ### ✈️ Airline Load Factor & Performance Analytics
 
