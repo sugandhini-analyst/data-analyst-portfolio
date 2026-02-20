@@ -24,7 +24,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
   - Designed **interactive dashboards** for real-time insights.  
 - **Challenges Overcome**: Managed large datasets, handled data quality issues, built complex data model relationships.  
 - **Deliverables**:  
-  - [📊 Power BI Dashboard]
+  - [📊 Power BI Dashboard]PK
   - [📈 Tableau Dashboard](./Tableau/Group-1HighCloudAirlines.twbx)  
  
 
