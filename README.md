@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio – Sugandhini B S
 
 Welcome to my **Data Analyst Portfolio**!  
-This repository highlights my projects in **SQL, Excel, Power BI, and Tableau**, showcasing how I analyze business data and build interactive dashboards to support decision-making.  
+This repository highlights my projects in **SQL, Excel, Python, Power BI, and Tableau**, showcasing how I analyze business data and build interactive dashboards to support decision-making.  
 
 ---
 
@@ -19,7 +19,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ## ✈️ 1. Airline Load Factor & Performance Analytics
 
 ### 🛠 Tech Stack: 
-Excel | SQL (MySQL) | Power BI | Tableau
+Excel | SQL (MySQL) | Power BI | Tableau | Python
 
 ### 🎯 **Project Overview:**
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
@@ -48,7 +48,7 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * **Visualization:** Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)
 * **Other:** Data Cleaning, KPI Design, Business Reporting, Presentation
 
-##📁 Project Artifacts
+## 📁 Project Artifacts
 
 📑 Excel Analysis()
 🗄 SQL Scripts()
