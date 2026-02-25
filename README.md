@@ -93,10 +93,10 @@ This project supports **better lending decisions, reduced defaults, and improved
 
 ### 📁 Project Artifacts
 
-* 📑 Excel Dashboard – (Add Link)
-* 🗄 SQL Scripts – (Add Link)
-* 📊 Power BI Report – (Add Link)
-* 📈 Tableau Dashboard – (Add Link)
+* 📑 Excel Dashboard – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Excel/Bank%20Data%20Analytics%20-%20EXCEL.xlsx)
+* 🗄 SQL Scripts – (https://github.com/sugandhini-analyst/data-analyst-portfolio/blob/main/Bank%20Data%20Analytics/SQL/Bank%20Data%20Analytics%20-%20SQL.sql)
+* 📊 Power BI Report – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/PowerBI/Bank%20Data%20Analytics%20-%20POWERBI.pbix)
+* 📈 Tableau Dashboard – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Tableau/Bank%20data%20Analytics%20-%20TABLEAU.twbx)
 
 ### ✅ Why This Project Matters
 
