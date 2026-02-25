@@ -48,12 +48,12 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * **Visualization:** Power BI (DAX, KPIs, Dashboards), Tableau (Interactive Dashboards, Storytelling)
 * **Other:** Data Cleaning, KPI Design, Business Reporting, Presentation
 
-## 📁 Project Artifacts
+### 📁 Project Artifacts
 
-📑 [Excel Analysis](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Excel/High%20Cloud%20Airlines%20-%20EXCEL.xlsx)  
-🗄 [SQL Scripts](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/SQL/High%20Cloud%20Airlines%20-%20SQL.sql)  
-📊 [Power BI Report](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/PowerBI/High%20Cloud%20Airlines%20-%20POWERBI.pbix)  
-📈 [Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/High%20Cloud%20Airlies%20-%20TABLEAU.twbx)
+* 📑 Excel Dashboard – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Excel/High%20Cloud%20Airlines%20-%20EXCEL.xlsx)
+* 🗄 SQL Scripts – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/SQL/High%20Cloud%20Airlines%20-%20SQL.sql)  
+* 📊 Power BI Report – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/PowerBI/High%20Cloud%20Airlines%20-%20POWERBI.pbix)  
+* 📈 Tableau Dashboard – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/High%20Cloud%20Airlies%20-%20TABLEAU.twbx)
 
 
 ---
@@ -144,10 +144,10 @@ This project supports **financial monitoring, fraud detection, and data-driven b
 
 ### 📁 Project Artifacts
 
-- 📑 Excel Dashboard – (Add Link)
-- 🗄 SQL Scripts – (Add Link)
-- 📊 Power BI Report – (Add Link)
-- 📈 Tableau Dashboard – (Add Link)
+* 📑 Excel Dashboard – (Add Link)
+* 🗄 SQL Scripts – (Add Link)
+* 📊 Power BI Report – (Add Link)
+* 📈 Tableau Dashboard – (Add Link)
 
 ### ✅ Why This Project Matters
 
