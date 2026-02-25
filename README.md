@@ -57,27 +57,56 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 
 
 ---
+## 🏦 2. Bank Loan Analytics & Risk Performance Dashboard
 
-# 🏦 Bank Data Analytics – Loan Portfolio & Risk Analysis  
-## **Tools**: Excel, SQL, Power BI, Tableau  
-- **Objective**: To analyze a banking dataset focusing on **loan performance, risk assessment, and customer insights**.  
-- **Key Insights (SQL Queries)**:  
-  - Total Loan Amount Funded, Interest, and Collection.  
-  - **Branch-wise, State-wise, and Religion-wise** loan distribution.  
-  - Default & Delinquent Loan Rates → Key indicators of credit risk.  
-  - Loan distribution by **Age, Grade, Purpose, and Loan Status**.  
-- **Dashboard Outcomes**:  
-  - Excel: Quick data summaries & pivot dashboards.  
-  - Power BI: Interactive KPIs & delinquency trends.  
-  - Tableau: Visual storytelling of loan performance by region & demographics.  
-- **Deliverables**:  
-  - [📑 Excel Analysis](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Excel/Bank%20Data%20Analytics%20-%20EXCEL.xlsx)
-  - [🗄 SQL Queries](https://github.com/Sugandhini28/data-analyst-portfolio/blob/main/Bank%20Data%20Analytics/SQL/Bank%20Data%20Analytics%20-%20SQL.sql)
-  - [📊 Power BI Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/PowerBI/Bank%20Data%20Analytics%20-%20POWERBI.pbix)  
-  - [📈 Tableau Dashboard](https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/Bank%20Data%20Analytics/Tableau/Bank%20data%20Analytics%20-%20TABLEAU.twbx)  
+### 🛠 Tech Stack
+Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau
+
+### 🎯 Project Overview
+Analyzed **65K+ bank loan records** to understand loan distribution, repayment behavior, branch and product performance, and overall portfolio risk.
+
+This project supports **better lending decisions, reduced defaults, and improved profitability**.
+
+### 🔍 Core Queries & Business Findings
+
+* 📅 Created time dimensions (Year, Month, Quarter) to analyze lending trends.
+* 💰 Measured business performance → **733M+ issued, 808M+ collected, 155M+ interest earned**.
+* ⚠️ Identified risky customers → **~2% default rate, 7,106 delinquent clients**.
+* 🏦 Compared branch performance to identify top revenue-generating branches.
+* 🗺 Analyzed state-wise distribution → **Punjab, Uttar Pradesh, Bihar**.
+* 👥 Segmented customers by age → **26–35 years = highest borrowers**.
+* 📊 Evaluated customer grades → Highest exposure in **Grades B & C**.
+* 🛍 Analyzed loan products → **XLG loans generated 600M+ revenue**.
+* ⏳ Studied loan tenure → **36 months most preferred**.
+
+### 📈 Reporting & Visualization Highlights
+
+* 📑 **Excel:** KPI dashboards using Pivot Tables and summary reports.
+* 📊 **Power BI:** Interactive dashboards with filters (State, Branch, Age, Grade, Status).
+* 📉 **Tableau:** Geographic and performance dashboards for trend analysis.
+
+### 🛠 Tools & Skills
+
+* **Data Analysis:** SQL (Joins, CTEs, Aggregations, Date Functions), Excel (Pivot Tables, Power Query)
+* **Visualization:** Power BI (DAX, Interactive Reports), Tableau (Maps, Storytelling)
+* **Other:** Data Cleaning, KPI Design, Risk Analysis, Business Reporting
+
+### 📁 Project Artifacts
+
+* 📑 Excel Dashboard – (Add Link)
+* 🗄 SQL Scripts – (Add Link)
+* 📊 Power BI Report – (Add Link)
+* 📈 Tableau Dashboard – (Add Link)
+
+### ✅ Why This Project Matters
+
+* Helps banks track money flow and profitability
+* Identifies high-risk customers early
+* Improves branch and product strategy
+* Supports better loan approval decisions
+* Enhances portfolio safety and revenue growth
 
 ---
-
 ### 💳 Debit & Credit Card Transaction Analytics
 🛠 **Tech Stack:** Excel | SQL | Power BI | Tableau
 🎯 **Project Overview:**
