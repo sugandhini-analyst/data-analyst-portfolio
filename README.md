@@ -109,53 +109,67 @@ This project supports **better lending decisions, reduced defaults, and improved
 ---
 ## 🏦 3. Bank Credit & Debit Analytics Dashboard
 
+---
+
 ### 🛠 Tech Stack
-Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau
+Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau  
+
+---
 
 ### 🎯 Project Overview
 Analyzed **100K+ bank transaction records** to understand credit and debit patterns, customer behavior, branch performance, and risk indicators.
 
 This project supports **financial monitoring, fraud detection, and data-driven banking decisions**.
 
+---
+
 ### 🔍 Core Queries & Business Findings
 
-* 📅 Created date dimensions (Year, Month, Quarter, Day) to analyze transaction trends.
-* 💰 Calculated total credit, debit, and net transaction amount → **₹127.60M Credit, ₹127.29M Debit, ₹318.12K Net**.
-* ⚖️ Measured credit to debit ratio → **1.00**.
-* ⚠️ Identified suspicious and high-risk transactions → **10K flagged transactions**.
-* 🏦 Analyzed branch-wise performance → **City Center Branch highest (42.9M)**.
-* 🏛 Compared bank-wise transaction volume → Kotak, Axis, SBI, ICICI, PNB, HDFC.
-* 💳 Studied transaction methods → Bank Transfer, Credit Card, Debit Card (~33% each).
-* 📈 Analyzed monthly transaction trends → Stable performance till November, drop in December.
-* 👥 Identified top customers by balance → Michael Smith, David Smith, David Johnson.
-* 📊 Evaluated branch growth → Positive growth across most branches.
+- 📅 Created date dimensions (Year, Month, Quarter, Day) to analyze transaction trends.
+- 💰 Calculated total credit, debit, and net transaction amount → **₹127.60M Credit, ₹127.29M Debit, ₹318.12K Net**.
+- ⚖️ Measured credit to debit ratio → **1.00**.
+- ⚠️ Identified suspicious and high-risk transactions → **10K flagged transactions**.
+- 🏦 Analyzed branch-wise performance → **City Center Branch highest (42.9M)**.
+- 🏛 Compared bank-wise transaction volume → Kotak, Axis, SBI, ICICI, PNB, HDFC.
+- 💳 Studied transaction methods → **Bank Transfer, Credit Card, Debit Card (~33% each)**.
+- 📈 Analyzed monthly transaction trends → Stable performance till November, drop in December.
+- 👥 Identified top customers by balance → Michael Smith, David Smith, David Johnson.
+- 📊 Evaluated branch growth → Positive growth across most branches.
+
+---
 
 ### 📈 Reporting & Visualization Highlights
 
-* 📑 **Excel:** KPI dashboards using Pivot Tables and summary reports.
-* 📊 **Power BI:** Interactive dashboards with slicers (Month, Branch, Bank, Type) and DAX-based KPIs.
-* 📉 **Tableau:** Trend, performance, and storytelling dashboards.
+- 📑 **Excel:** KPI dashboards using Pivot Tables and summary reports.
+- 📊 **Power BI:** Interactive dashboards with slicers (Month, Branch, Bank, Type) and DAX-based KPIs.
+- 📉 **Tableau:** Trend, performance, and storytelling dashboards.
+
+---
 
 ### 🛠 Tools & Skills
 
-* **Data Analysis:** SQL (Joins, CTEs, Aggregations, Date Functions), Excel (Pivot Tables, Power Query)
-* **Visualization:** Power BI (DAX, Interactive Reports), Tableau (Maps, Storytelling)
-* **Other:** Data Cleaning, KPI Design, Risk Analysis, Business Reporting
+- **Data Analysis:** SQL (Joins, CTEs, Aggregations, Date Functions), Excel (Pivot Tables, Power Query)
+- **Visualization:** Power BI (DAX, Interactive Reports), Tableau (Maps, Storytelling)
+- **Other:** Data Cleaning, KPI Design, Risk Analysis, Business Reporting
+
+---
 
 ### 📁 Project Artifacts
 
-* 📑 Excel Dashboard – (Add Link)
-* 🗄 SQL Scripts – (Add Link)
-* 📊 Power BI Report – (Add Link)
-* 📈 Tableau Dashboard – (Add Link)
+- 📑 Excel Dashboard – (Add Link)
+- 🗄 SQL Scripts – (Add Link)
+- 📊 Power BI Report – (Add Link)
+- 📈 Tableau Dashboard – (Add Link)
+
+---
 
 ### ✅ Why This Project Matters
 
-* Helps banks monitor credit and debit flows
-* Supports early detection of suspicious transactions
-* Improves branch and bank performance analysis
-* Enables better financial decision-making
-* Enhances transaction security and profitability
+- Helps banks monitor credit and debit flows
+- Supports early detection of suspicious transactions
+- Improves branch and bank performance analysis
+- Enables better financial decision-making
+- Enhances transaction security and profitability
 ---
 
 ## 📬 Contact
