@@ -6,7 +6,7 @@ This repository highlights my projects in **SQL, Excel, Python, Power BI, and Ta
 ---
 
 ## 👩‍💻 About Me
-I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, Power BI, and Tableau**.  
+I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Python, Excel, Power BI, and Tableau**.  
 - 🎯 Passionate about turning raw data into meaningful insights.  
 - 📍 Based in India, open to **entry-level Data Analyst/BI Analyst roles**.  
 - 🔧 Core Skills: Data Cleaning, KPI Analysis, Dashboarding, SQL Queries, and Storytelling with Data.  
@@ -19,7 +19,7 @@ I am an **Aspiring Data Analyst (Fresher)** with strong skills in **SQL, Excel, 
 ## ✈️ 1. Airline Load Factor & Performance Analytics
 
 ### 🛠 Tech Stack: 
-Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau | Python
+Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau |
 
 ### 🎯 **Project Overview:**
 Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor trends, passenger demand patterns, carrier efficiency, and route performance for data-driven airline operations and capacity planning.
