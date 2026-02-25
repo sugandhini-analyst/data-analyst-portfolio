@@ -109,19 +109,13 @@ This project supports **better lending decisions, reduced defaults, and improved
 ---
 ## 🏦 3. Bank Credit & Debit Analytics Dashboard
 
----
 
 ### 🛠 Tech Stack
 Microsoft Excel | SQL (MySQL) | Microsoft Power BI | Tableau  
 
----
-
 ### 🎯 Project Overview
 Analyzed **100K+ bank transaction records** to understand credit and debit patterns, customer behavior, branch performance, and risk indicators.
-
 This project supports **financial monitoring, fraud detection, and data-driven banking decisions**.
-
----
 
 ### 🔍 Core Queries & Business Findings
 
@@ -136,15 +130,11 @@ This project supports **financial monitoring, fraud detection, and data-driven b
 - 👥 Identified top customers by balance → Michael Smith, David Smith, David Johnson.
 - 📊 Evaluated branch growth → Positive growth across most branches.
 
----
-
 ### 📈 Reporting & Visualization Highlights
 
 - 📑 **Excel:** KPI dashboards using Pivot Tables and summary reports.
 - 📊 **Power BI:** Interactive dashboards with slicers (Month, Branch, Bank, Type) and DAX-based KPIs.
 - 📉 **Tableau:** Trend, performance, and storytelling dashboards.
-
----
 
 ### 🛠 Tools & Skills
 
@@ -152,16 +142,12 @@ This project supports **financial monitoring, fraud detection, and data-driven b
 - **Visualization:** Power BI (DAX, Interactive Reports), Tableau (Maps, Storytelling)
 - **Other:** Data Cleaning, KPI Design, Risk Analysis, Business Reporting
 
----
-
 ### 📁 Project Artifacts
 
 - 📑 Excel Dashboard – (Add Link)
 - 🗄 SQL Scripts – (Add Link)
 - 📊 Power BI Report – (Add Link)
 - 📈 Tableau Dashboard – (Add Link)
-
----
 
 ### ✅ Why This Project Matters
 
