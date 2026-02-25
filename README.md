@@ -57,11 +57,12 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 
 ### ✅ Why This Project Matters
 
-- Helps banks monitor credit and debit flows
-- Supports early detection of suspicious transactions
-- Improves branch and bank performance analysis
-- Enables better financial decision-making
-- Enhances transaction security and profitability
+* Helps airlines optimize seat utilization and reduce empty capacity
+* Improves route and schedule planning based on demand patterns
+* Supports data-driven fleet and capacity management decisions
+* Identifies high-performing and underperforming carriers
+* Enhances profitability through better load factor management
+* Enables efficient resource allocation and cost control
 
 
 ---
