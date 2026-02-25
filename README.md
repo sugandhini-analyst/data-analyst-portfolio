@@ -144,7 +144,7 @@ This project supports **financial monitoring, fraud detection, and data-driven b
 
 ### 📁 Project Artifacts
 
-* 📑 Excel Dashboard – (Add Link)
+* 📑 Excel Dashboard – ([Add Link](https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Debit%20&%20Credit%20Analytics/Excel/Debit%20and%20Credit%20Analytics%20-%20EXCEL.xlsx))
 * 🗄 SQL Scripts – (Add Link)
 * 📊 Power BI Report – (Add Link)
 * 📈 Tableau Dashboard – (Add Link)
