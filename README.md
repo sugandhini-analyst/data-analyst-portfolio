@@ -55,6 +55,14 @@ Analyzed **110K+ airline flight records (64 attributes)** to uncover load factor
 * 📊 Power BI Report – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/PowerBI/High%20Cloud%20Airlines%20-%20POWERBI.pbix)  
 * 📈 Tableau Dashboard – (https://github.com/Sugandhini28/data-analyst-portfolio/raw/refs/heads/main/High%20Cloud%20Airlines/Tableau/High%20Cloud%20Airlies%20-%20TABLEAU.twbx)
 
+### ✅ Why This Project Matters
+
+- Helps banks monitor credit and debit flows
+- Supports early detection of suspicious transactions
+- Improves branch and bank performance analysis
+- Enables better financial decision-making
+- Enhances transaction security and profitability
+
 
 ---
 ## 🏦 2. Bank Loan Analytics & Risk Performance Dashboard
@@ -144,10 +152,10 @@ This project supports **financial monitoring, fraud detection, and data-driven b
 
 ### 📁 Project Artifacts
 
-* 📑 Excel Dashboard – ([Add Link](https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Debit%20&%20Credit%20Analytics/Excel/Debit%20and%20Credit%20Analytics%20-%20EXCEL.xlsx))
-* 🗄 SQL Scripts – (Add Link)
-* 📊 Power BI Report – (Add Link)
-* 📈 Tableau Dashboard – (Add Link)
+* 📑 Excel Dashboard – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Debit%20&%20Credit%20Analytics/Excel/Debit%20and%20Credit%20Analytics%20-%20EXCEL.xlsx)
+* 🗄 SQL Scripts – (https://github.com/sugandhini-analyst/data-analyst-portfolio/blob/main/Debit%20%26%20Credit%20Analytics/SQL/Debit%20and%20Credit%20Analytics%20-%20SQL.sql)
+* 📊 Power BI Report – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Debit%20&%20Credit%20Analytics/PowerBI/Debit%20and%20Credit%20Analytics%20-%20POWERBI.pbix)
+* 📈 Tableau Dashboard – (https://github.com/sugandhini-analyst/data-analyst-portfolio/raw/refs/heads/main/Debit%20&%20Credit%20Analytics/Tableau/Debit%20and%20Credit%20Analytics%20-%20TABLEAU.twbx)
 
 ### ✅ Why This Project Matters
 
